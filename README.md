@@ -30,7 +30,7 @@ This project is a beginner-friendly backend assignment for learning how to build
 ---
 
 ## 📂 Project Structure
-
+```text
 blog-api/
 │
 ├── node_modules/
@@ -38,7 +38,7 @@ blog-api/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 
 ---
 
@@ -241,7 +241,6 @@ curl http://localhost:3000/posts/1
 ---
 
 ## 👨‍💻 Author
-Lima Akter Badhon
 
 **Lima Akter Badhon**
 Programming Hero — Full Stack Bootcamp
